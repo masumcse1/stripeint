@@ -1,0 +1,10 @@
+
+
+server:
+  port: 9095
+  servlet:
+    context-path: /api/integration
+api:
+  stripe:
+    key: pk_test_51HpVKeBrSs2LTRG95zzNez6CQNAkU2GkfkF1Wlx5YinxEzuUzrB51SrEpCSbLtQVEyOge3phlKzq2ikOU8WOzQHb00RHQsPXLY
+
